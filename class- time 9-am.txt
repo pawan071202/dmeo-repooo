@@ -1,0 +1,15 @@
+vm creation through rdp
+vm creation through ssh
+storage account creation 
+ACR
+AKs
+container instances 
+app services 
+AZURE AD or intra id 
+key vault services 
+load balancer 
+firewall
+virtual network
+
+
+

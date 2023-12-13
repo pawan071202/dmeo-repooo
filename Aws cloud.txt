@@ -1,0 +1,26 @@
+fault tolence 
+High Availabilty
+scalabilty
+Horizontal and vertical scaling
+elasticity
+(ability to increase or decrease the resources)
+
+
+
+
+services 
+Ec2
+IAM 
+cloud watch
+
+storage types 
+S3 
+S3 glacier
+Elastic block storage
+Elastic file storage 
+Snowball 
+
+Autoscaling in Aws
+health check 
+CPU utilization 
+autoscaling is horizontal 
